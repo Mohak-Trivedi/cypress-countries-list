@@ -1,0 +1,29 @@
+[
+  {
+    "cca3": "USA",
+    "flags": {
+      "png": "https://path-to-flag-image/USA.png"
+    },
+    "name": {
+      "common": "United States of America"
+    }
+  },
+  {
+    "cca3": "CAN",
+    "flags": {
+      "png": "https://path-to-flag-image/CAN.png"
+    },
+    "name": {
+      "common": "Canada"
+    }
+  },
+  {
+    "cca3": "GBR",
+    "flags": {
+      "png": "https://path-to-flag-image/GBR.png"
+    },
+    "name": {
+      "common": "United Kingdom"
+    }
+  }
+]
